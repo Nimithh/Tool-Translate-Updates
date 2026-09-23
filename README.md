@@ -4,11 +4,21 @@ Every copy of **Video Voice Translator** reads `latest.json` from here when it
 opens. Nothing else is in this repo, on purpose: it is public so the app can
 read it without a password, and the app's own code stays private elsewhere.
 
+## Download
+
+**https://github.com/Nimithh/Tool-Translate-Updates/releases/latest/download/VideoVoiceTranslator.zip**
+
+This link always gives the newest version, so it can be sent once and kept.
+The zip holds the exe and READ-ME-FIRST.txt in one folder. The app will not
+run without a licence code, so a public download gives nothing away.
+
 ## Releasing a new version
 
 1. In the app's code, raise `APP_VERSION` in `backend/utils/version.py`
    — for example `1.0.0` to `1.1.0` — and build.
-2. Send the new exe to customers the usual way (Telegram).
+2. Make a new Release here (Releases → Draft a new release), tag it with
+   the version — `v1.1.0` — and attach the zip. **Name the file exactly
+   `VideoVoiceTranslator.zip`**, or the download link above stops finding it.
 3. Here, edit `latest.json` and raise `"version"` to match.
 
 Anyone still on an older version sees, the next time they open the app:
