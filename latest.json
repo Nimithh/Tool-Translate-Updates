@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum": "0",
   "contact": "@chhannnimith",
-  "notes_km": "",
-  "notes_en": ""
+  "notes_km": "Gemini ស្តាប់សំឡេងដើម ដើម្បីជ្រើសសំឡេងប្រុស/ស្រី។ រក្សាសំឡេងដើមពេលគ្មានអ្នកនិយាយ។ ជួសជុលការបកប្រែ និង Dub។",
+  "notes_en": "Gemini listens to pick male/female voices. Keeps the original sound where nobody speaks. Translation and Dub fixes."
 }
