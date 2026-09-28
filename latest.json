@@ -18,5 +18,12 @@
     "sig": "217d91d214f738ca2d099387b5b3481e3d241171ce747c36f033e9d22bcf904dad05f130ad5521ea020043412eda967e6e8b9776b9eeb18c21b584fd98a7e60f",
     "size": 480298006,
     "runtime": 2
+  },
+  "exe": {
+    "url": "https://github.com/Nimithh/Tool-Translate-Updates/releases/download/v1.0.5/VideoVoiceTranslator.exe",
+    "sha256": "360e58185d8dc6ffa5b33cd851876e76391764ec4f9613c6c6ea48b833f43f79",
+    "sig": "24f98ecc7d1add047791fae8c85b8af8e234ff92143f523b30ac59bebffd032b3ef7359022171dde679a0c3da23e6f6041fc0c50ec871423c0b814d4d93a3900",
+    "size": 483418425,
+    "runtime": 2
   }
 }
