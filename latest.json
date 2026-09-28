@@ -1,7 +1,22 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "minimum": "0",
   "contact": "@chhannnimith",
-  "notes_km": "Gemini ស្តាប់សំឡេងដើម ដើម្បីជ្រើសសំឡេងប្រុស/ស្រី។ រក្សាសំឡេងដើមពេលគ្មានអ្នកនិយាយ។ ជួសជុលការបកប្រែ និង Dub។",
-  "notes_en": "Gemini listens to pick male/female voices. Keeps the original sound where nobody speaks. Translation and Dub fixes."
+  "notes_km": "ពីពេលនេះទៅ កម្មវិធីធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង មិនបាច់ទាញយកដោយដៃទៀតទេ។ រក្សាការងារលើវីដេអូនីមួយៗ។ ប្ដូរទំហំអក្សរលើកន្លែងព្រិលតាមជួរ ហើយព្រិលគ្របអក្សរខ្មែរវែងៗ។ បិទភ្ជាប់ SRT។ រក្សា SRT ដើម និង SRT បកប្រែ។",
+  "notes_en": "Updates itself from now on — no more downloading by hand. Keeps your work on each video. Text size per row on blurred text, and the blur covers long Khmer. Paste SRT. Save the original and the translated SRT.",
+  "patch": {
+    "url": "https://github.com/Nimithh/Tool-Translate-Updates/releases/download/v1.0.3/app-1.0.3.zip",
+    "sha256": "9af788dda675e603f31e79f87c8b7c9fa62d8f8c32b473ff7a6ee87c858835a7",
+    "sig": "d7c57cb978136e06cff2583942ba53bab8007fdda2bcafdb3a9959e5fcbff8c2a1b6c4b4edb97883c9639069c9a37e8f6bcc25799fd761599bc3e3d9bfcf2005",
+    "size": 577891,
+    "runtime": 1,
+    "python": "3.11"
+  },
+  "exe": {
+    "url": "https://github.com/Nimithh/Tool-Translate-Updates/releases/download/v1.0.3/VideoVoiceTranslator.exe",
+    "sha256": "6f8c4ccbd23dc76d89999110b0b8287bb515d7ea41b506313f59d429634de631",
+    "sig": "3e39971db7c61a66d5b413afdab8c1eb3b23011f90473e1f4ab9dacd13f9f0c498300d78fb8c491a57aaecea069d1c067ec4b55867a2f09ebf292a0f38420308",
+    "size": 483416429,
+    "runtime": 1
+  }
 }
