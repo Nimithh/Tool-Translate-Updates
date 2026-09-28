@@ -1,13 +1,13 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minimum": "0",
   "contact": "@chhannnimith",
-  "notes_km": "ពីពេលនេះទៅ កម្មវិធីធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯង មិនបាច់ទាញយកដោយដៃទៀតទេ។ រក្សាការងារលើវីដេអូនីមួយៗ។ ប្ដូរទំហំអក្សរលើកន្លែងព្រិលតាមជួរ ហើយព្រិលគ្របអក្សរខ្មែរវែងៗ។ បិទភ្ជាប់ SRT។ រក្សា SRT ដើម និង SRT បកប្រែ។",
-  "notes_en": "Updates itself from now on — no more downloading by hand. Keeps your work on each video. Text size per row on blurred text, and the blur covers long Khmer. Paste SRT. Save the original and the translated SRT.",
+  "notes_km": "ការធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិលើកដំបូង — មិនបាច់ធ្វើអ្វីទេ វាដំឡើងដោយខ្លួនឯង។",
+  "notes_en": "First automatic update — nothing to do, it installed itself.",
   "patch": {
-    "url": "https://github.com/Nimithh/Tool-Translate-Updates/releases/download/v1.0.3/app-1.0.3.zip",
-    "sha256": "9af788dda675e603f31e79f87c8b7c9fa62d8f8c32b473ff7a6ee87c858835a7",
-    "sig": "d7c57cb978136e06cff2583942ba53bab8007fdda2bcafdb3a9959e5fcbff8c2a1b6c4b4edb97883c9639069c9a37e8f6bcc25799fd761599bc3e3d9bfcf2005",
+    "url": "https://github.com/Nimithh/Tool-Translate-Updates/releases/download/v1.0.4/app-1.0.4.zip",
+    "sha256": "19e2e22e659e3506896d69cbfba73ff69acd3a3660af5797c445c097b08954e1",
+    "sig": "88cfe05ecaad4d5cf035c1283c0329bf36672141baf427f87be7bf7cbc1a5c79f3f9a40b2980acc4fe681f3897607e58d8301efadfbf45e61b61377df0112a0a",
     "size": 577891,
     "runtime": 1,
     "python": "3.11"
