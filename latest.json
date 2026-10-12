@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "minimum": "0",
   "contact": "@chhannnimith",
-  "notes_km": "រូបរាងថ្មី៖ ឧបករណ៍នៅខាងលើ វីដេអូធំជាងមុន ខ្សែពេលវេលានៅខាងក្រោមជានិច្ច និងប៊ូតុង ▶ នៅគ្រប់ជួរ។ ផ្ទាំង «រចនា» ថ្មី៖ ចុចតែម្តងដើម្បីបន្ថែមព្រិល ស្លាក អក្សរ ឬឡូហ្គោ រួចអូស និងប្តូរទំហំនៅលើវីដេអូ។ លឿនជាងមុន៖ ការព្រិលលឿនជាងប្រហែល ៤ ដង ហើយការអានអក្សររត់ពីរូបភាពលឿនជាងមុនរហូតដល់មួយភាគបី។ «របៀបលឿន» ថ្មីក្នុងការកំណត់ ប្រើកុំព្យូទ័រពេញកម្លាំង។",
-  "notes_en": "New look: tools along the top, a bigger video, the timeline always underneath, and a ▶ on every line. New Design tab: add a blur, label, text or logo with one press, then move and resize it on the video. Faster: blur renders about 4× faster, and reading subtitles from the picture is up to a third quicker. New Fast mode in Settings uses the whole PC.",
+  "notes_km": "សារនៅជ្រុងខាងក្រោមឥឡូវជាប្រអប់ស្អាត ហើយអក្សរខ្មែរវែងៗចុះបន្ទាត់នៅក្នុងប្រអប់។ ការធ្វើបច្ចុប្បន្នភាពឥឡូវសួរមុន៖ ចុច «ធ្វើបច្ចុប្បន្នភាព» ពេលអ្នករួចរាល់។",
+  "notes_en": "Messages in the corner are now tidy boxes, and long Khmer lines wrap inside them. Updates now ask first: press Update now when you are ready.",
   "code": {
-    "url": "https://raw.githubusercontent.com/Nimithh/Tool-Translate-Updates/code/code-1.0.7.bin",
-    "sha256": "095680fd8d6d61915e6723a86d29161aa577cfd26d3c28a38c52d6ade13bfbc5",
-    "sig": "24b115f50aa6eb3353c3ff7aed30e4d2ea60d7ccee12899b0fdd3add6dc81a585d79e76bd39e7ffdb7612d333810703785e5bdf0b29e76f69bc057bc11d0040b",
-    "size": 905573,
+    "url": "https://raw.githubusercontent.com/Nimithh/Tool-Translate-Updates/code/code-1.0.8.bin",
+    "sha256": "8ef48d8f1f641a3f7575a2b7d8a3ca2898754ba8ab0c2d3d953db57dd8299dce",
+    "sig": "817b87f2f2b09af7e3f42987530f1f2debfbda5cd055999ee30758e6212092ed1155b88772bb10f58ef17912534f8f456273d2a3fdecc976542f6ee37c2eb705",
+    "size": 907689,
     "runtime": 3,
     "python": "3.11"
   },
